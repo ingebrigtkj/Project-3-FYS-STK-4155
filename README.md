@@ -1,8 +1,8 @@
 Project 3 FYS-STK4155, 3 python code files, using a Standard Explicit Scheme, Recurrent Neural Network and Convolutional Neural Network to solve the PDE:
 
-The physical problem can be that of the
-temperature gradient in a rod of length L = 1 at x = 0 and x = 1. We are
-looking at a one-dimensional problem
+The physical problem is the
+temperature gradient in a rod of length L = 1 at x = 0 and x = 1. It is a 
+one-dimensional problem
 ∂
 2u(x, t)
 ∂x2
@@ -18,9 +18,9 @@ u(0, t) = 0 t ≥ 0,
 and
 u(L, t) = 0 t ≥ 0.
 3
-The function u(x, t) can be the temperature gradient of a rod. As time increases,
+The function u(x, t) is the temperature gradient of a rod. As time increases,
 the velocity approaches a linear variation with x.
-We will limit ourselves to the so-called explicit forward Euler algorithm with
+Here I am looking at the so-called explicit forward Euler algorithm with
 discretized versions of time given by a forward formula and a centered difference
 in space resulting in
 ut ≈
