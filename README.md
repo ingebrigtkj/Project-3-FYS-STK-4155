@@ -58,4 +58,4 @@ The file "Project 3 Explicit Scheme and Analytical Solution" contains an analyti
 
 Run the code w.: Spyder, Jupyter Notebook or another Python environment Read the report w. an up to date internet browser such as Microsoft Edge, Google Chrome, Firefox, Safari or an up to date pdf reader like Acrobat Reader.
 
-Make this code your own by: Modifying the inputs (The class "PDE-solver" and other parameters in the other classes, and by reading the comments in the code.), modifying the activation functions and other parameters within the current code framework (Modify the parameters of choice, find them by reading the comments).
+Fit this code to a Differential Equation or other input of your choice by: Modifying the inputs (The class "PDE-solver" and other parameters in the other classes, and by reading the comments in the code.), modifying the activation functions and other parameters within the current code framework (Modify the parameters of choice, find them by reading the comments).
